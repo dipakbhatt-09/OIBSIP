@@ -1,6 +1,5 @@
 import webbrowser
 
-
 def answer_question(command, speak):
 
     question = command
