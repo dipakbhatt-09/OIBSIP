@@ -1,0 +1,22 @@
+```gitignore
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+```
